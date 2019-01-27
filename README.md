@@ -1,1 +1,1 @@
-# PracticasBlender
+# Prácticas en Blender
